@@ -1,6 +1,35 @@
-# 💫 About Me:
-I’m currently working on: A local-first, proof-driven truth protocol where claims exist only through continuous validation, not authority or engagement.<br><br>I’m looking to collaborate on: Flutter apps, deep-tech protocols, system-level software, and experimental products that challenge conventional architectures.<br><br>I’m looking for help with: Protocol formalization, edge-case reasoning, scalability strategies, and peer review of unconventional system designs.<br><br>I’m currently learning: AI/ML fundamentals, low-level OS development, kernel internals, and advanced distributed system concepts.<br><br>Ask me about: Flutter (MVVM, BLoC, clean architecture), Firebase, real-time app performance, custom OS kernels, and protocol design.<br><br>Flutter experience: 2+ years of hands-on Flutter development building production-grade, animated, responsive apps with scalable architecture.<br><br>Fun fact: I rarely build “apps” for trends—I build systems for problems that most people ignore.<br><br>Background: Electronics & Communication Engineering undergraduate with strong crossover between software, systems, and embedded thinking.<br><br>Mindset: First-principles driven, local-first, and focused on long-term correctness over short-term popularity.<br><br>Goal: To engineer lightweight, honest, and structurally superior technology that works without hype, algorithms, or authority.
+💡 About Me -
+I build systems, not hype. From local-first truth protocols to production-grade Flutter apps and custom OS kernels, I focus on long-term correctness, structural integrity, and problems most ignore. If it’s flashy but shallow, it’s not for me—I engineer solutions that last.
 
+💫 Current Work -
+I’m building a local-first, proof-driven truth protocol, where claims exist only through continuous validation—independent of authority, likes, or engagement.
+
+🤝 Collaboration Interests -
+I’m looking to collaborate on Flutter apps, deep-tech protocols, system-level software, and experimental products that rethink conventional architectures.
+
+🛠️ Seeking Help With -
+Protocol formalization, edge-case reasoning, scalability strategies, and peer review of unconventional system designs.
+
+📚 Currently Learning -
+AI/ML fundamentals, low-level OS development, kernel internals, and advanced distributed system concepts.
+
+❓ Ask Me About -
+Flutter (MVVM, BLoC, clean architecture), Firebase, real-time app performance, custom OS kernels, and protocol design.
+
+💻 Flutter Experience -
+2+ years building production-grade, animated, responsive apps with scalable architecture.
+
+🎯 Fun Fact -
+I rarely build “apps” for trends—I focus on solving problems most people ignore.
+
+🎓 Background -
+Electronics & Communication Engineering undergraduate with strong crossover between software, systems, and embedded thinking.
+
+🧠 Mindset -
+First-principles driven, local-first, and focused on long-term correctness over short-term popularity.
+
+🚀 Goal -
+To engineer lightweight, honest, and structurally superior technology that works without hype, algorithms, or authority.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/an_exceptional_person3.14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasharma22by7@gmail.com) 
