@@ -1,35 +1,13 @@
-💡 About Me -
-I build systems, not hype. From local-first truth protocols to production-grade Flutter apps and custom OS kernels, I focus on long-term correctness, structural integrity, and problems most ignore. If it’s flashy but shallow, it’s not for me—I engineer solutions that last.
-
-💫 Current Work -
-I’m building a local-first, proof-driven truth protocol, where claims exist only through continuous validation—independent of authority, likes, or engagement.
-
-🤝 Collaboration Interests -
-I’m looking to collaborate on Flutter apps, deep-tech protocols, system-level software, and experimental products that rethink conventional architectures.
-
-🛠️ Seeking Help With -
-Protocol formalization, edge-case reasoning, scalability strategies, and peer review of unconventional system designs.
-
-📚 Currently Learning -
-AI/ML fundamentals, low-level OS development, kernel internals, and advanced distributed system concepts.
-
-❓ Ask Me About -
-Flutter (MVVM, BLoC, clean architecture), Firebase, real-time app performance, custom OS kernels, and protocol design.
-
-💻 Flutter Experience -
-2+ years building production-grade, animated, responsive apps with scalable architecture.
-
-🎯 Fun Fact -
-I rarely build “apps” for trends—I focus on solving problems most people ignore.
-
-🎓 Background -
-Electronics & Communication Engineering undergraduate with strong crossover between software, systems, and embedded thinking.
-
-🧠 Mindset -
-First-principles driven, local-first, and focused on long-term correctness over short-term popularity.
-
-🚀 Goal -
-To engineer lightweight, honest, and structurally superior technology that works without hype, algorithms, or authority.
+👋 Hi, I’m Aditya
+💡 I build systems, not hype — from local-first truth protocols to scalable Flutter apps and low-level system work. I focus on correctness, structure, and long-term engineering over trends.
+🧠 Current focus: Proof-driven, local-first protocol design
+🤝 Open to collaborate on: Flutter, deep-tech protocols, system software
+📚 Learning: AI/ML, OS internals, kernels, distributed systems
+💬 Ask me about: Flutter (MVVM, BLoC), Firebase, performance, protocol design
+💻 Experience: 2+ years building production-grade, responsive Flutter apps
+🎓 Background: ECE undergraduate with strong systems + embedded thinking
+🎯 Mindset: First-principles, local-first, correctness > popularity
+🚀 Goal: Build lightweight, honest technology that works without hype or authority.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/an_exceptional_person3.14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasharma22by7@gmail.com) 
