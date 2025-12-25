@@ -1,12 +1,21 @@
 👋 Hi, I’m Aditya
+
 💡 I build systems, not hype — from local-first truth protocols to scalable Flutter apps and low-level system work. I focus on correctness, structure, and long-term engineering over trends.
+
 🧠 Current focus: Proof-driven, local-first protocol design
+
 🤝 Open to collaborate on: Flutter, deep-tech protocols, system software
+
 📚 Learning: AI/ML, OS internals, kernels, distributed systems
+
 💬 Ask me about: Flutter (MVVM, BLoC), Firebase, performance, protocol design
+
 💻 Experience: 2+ years building production-grade, responsive Flutter apps
+
 🎓 Background: ECE undergraduate with strong systems + embedded thinking
+
 🎯 Mindset: First-principles, local-first, correctness > popularity
+
 🚀 Goal: Build lightweight, honest technology that works without hype or authority.
 
 ## 🌐 Socials:
