@@ -1,6 +1,6 @@
 👋 Hi, I’m Aditya
 
-💡 I build systems, not hype — from local-first truth protocols to scalable Flutter apps and low-level system work. I focus on correctness, structure, and long-term engineering over trends.
+💡 Building local-first systems and scalable Flutter apps. I build systems, not trends—focused on correctness, structure, and protocol-driven design.
 
 🧠 Current focus: Proof-driven, local-first protocol design
 
